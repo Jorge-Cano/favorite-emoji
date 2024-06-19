@@ -1,2 +1,2 @@
-# favorite-emoji
+# favorite-emoji-and-gif
 👾
